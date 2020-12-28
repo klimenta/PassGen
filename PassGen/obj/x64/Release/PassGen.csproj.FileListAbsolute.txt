@@ -1,0 +1,10 @@
+P:\dotnet\PassGen\PassGen\bin\x64\Release\PassGen.exe.config
+P:\dotnet\PassGen\PassGen\bin\x64\Release\PassGen.exe
+P:\dotnet\PassGen\PassGen\bin\x64\Release\PassGen.pdb
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.csprojAssemblyReference.cache
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.Form1.resources
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.Properties.Resources.resources
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.csproj.GenerateResource.cache
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.csproj.CoreCompileInputs.cache
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.exe
+P:\dotnet\PassGen\PassGen\obj\x64\Release\PassGen.pdb

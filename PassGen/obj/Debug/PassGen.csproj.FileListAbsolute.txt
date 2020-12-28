@@ -7,3 +7,12 @@ C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\PassGen\PassGen\o
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\PassGen\PassGen\obj\Debug\PassGen.exe
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\PassGen\PassGen\obj\Debug\PassGen.pdb
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\PassGen\PassGen\obj\Debug\PassGen.csprojResolveAssemblyReference.cache
+P:\dotnet\PassGen\PassGen\bin\Debug\PassGen.exe.config
+P:\dotnet\PassGen\PassGen\bin\Debug\PassGen.exe
+P:\dotnet\PassGen\PassGen\bin\Debug\PassGen.pdb
+P:\dotnet\PassGen\PassGen\obj\Debug\PassGen.Form1.resources
+P:\dotnet\PassGen\PassGen\obj\Debug\PassGen.Properties.Resources.resources
+P:\dotnet\PassGen\PassGen\obj\Debug\PassGen.csproj.GenerateResource.cache
+P:\dotnet\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+P:\dotnet\PassGen\PassGen\obj\Debug\PassGen.exe
+P:\dotnet\PassGen\PassGen\obj\Debug\PassGen.pdb
